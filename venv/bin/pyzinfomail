@@ -1,0 +1,4 @@
+#!/Users/amath/projects/message_board/venv/bin/python3.4
+# EASY-INSTALL-SCRIPT: 'pyzmail==1.0.3','pyzinfomail'
+__requires__ = 'pyzmail==1.0.3'
+__import__('pkg_resources').run_script('pyzmail==1.0.3', 'pyzinfomail')

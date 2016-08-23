@@ -1,0 +1,13 @@
+Message Board Project
+
+1. program python that can send email messages
+2. program python to check for email every minute
+3. send notification if new email has arrived
+4. take email and download/open attachments and display body in a console
+5. create a GUI that can port to raspberry pi
+6. show the attachment and message on the GUI
+7. set up raspberry pi with dependencies
+8. set up rasberry pi with wifi and screen
+9. add ssh for remote access to raspberry pi
+10. set up raspberry pi to open GUI in kiosk mode when reboot
+11. place raspberry pi in message board container for wall mount, stand or fridge mount
