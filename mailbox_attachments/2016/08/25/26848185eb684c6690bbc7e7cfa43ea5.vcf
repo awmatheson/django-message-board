@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 8.1//EN
+N:Elkington (Work);Tyler;;;
+FN:Tyler Elkington (Work)
+ORG:Morgan Stanley;Investment Banking - Technology
+TITLE:Analyst
+EMAIL;type=INTERNET;type=WORK;type=pref:Tyler.Elkington@morganstanley.com
+TEL;type=WORK;type=VOICE;type=pref:(650) 234-5654
+TEL;type=CELL;type=VOICE:(713) 817-2482
+TEL;type=WORK;type=FAX:(713) 770-5258
+item1.ADR;type=WORK;type=pref:;;2725 Sand Hill Road\nSuite 200;Menlo Park;CA;94025;United States
+item1.X-ABADR:us
+END:VCARD

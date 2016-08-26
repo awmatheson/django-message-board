@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Steve Prodger:MAILTO:steve.prodger@smartaction.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alexander 
+ Matheson:MAILTO:amatheson@verbio.com
+DESCRIPTION;LANGUAGE=en-US:Hi Steve\,\n\n\nJust touching base to see what t
+ ime works best for you on Thursday. I am free between 10am and 11am and th
+ en again after 3pm.\n\n\nLet me know\,\n\n\nAlexander\n\n\n\n\nAlexander M
+ atheson\n\n\n\nSales Manager\nVerbio<http://www.verbio.com/en/> // E: amat
+ heson@verbio.com<mailto:amatheson@verbio.com>\n\nT: 6508642215 // skp: a.w
+ .matheson\n\n\nOn Mon\, Dec 8\, 2014 at 2:49 PM\, Steve Prodger <steve.pro
+ dger@smartaction.com<mailto:steve.prodger@smartaction.com>> wrote:\n\nHi A
+ lexander\,\nI appreciate you reaching out to SmartAction.\nWe’d be inter
+ ested to explore any opportunity to work together.\n\n\nMy calendar looks 
+ good for Thursday or Friday this week…please let me know a good time for
+  you.\n\n\nBest regards\,\n\n\nSteve Prodger\nSenior Vice President\, Sale
+ s\nSmart Action Company\, LLC\n(310) 773-4716<tel:%28310%29%20773-4716> (o
+ )\n(310) 227-3379<tel:%28310%29%20227-3379> (c)\nsteve.prodger@smartaction
+ .com<mailto:blake.manosh@smartaction.com>\nwww.smartaction.com<http://www.
+ smartaction.com/>\n[cid:A3DE63E5-CBD4-4DAE-AACD-6A6132A7DEEF]\n\n\n\n\n\n\
+ nFrom: Alexander Matheson <amatheson@verbio.com<mailto:amatheson@verbio.co
+ m>>\nDate: Monday\, December 8\, 2014 at 12:56 PM\nTo: Sales Email <sales@
+ smartaction.com<mailto:sales@smartaction.com>>\, Partners Email <partners@
+ smartaction.com<mailto:partners@smartaction.com>>\nSubject: Potential Part
+ ner - Speech Technology Experts\, Low Cost\, High Accuracy\n\n\n\nDear Sma
+ rt Action\,\n\n\nWe would like to enquire about a potential partnership wi
+ th your company. Verbio<http://www.verbio.com/en/> is a speech technology 
+ company with offices in the US\, Spain and Brazil to serve Europe\, North 
+ America and Latin America. We are a very flexible company and are looking 
+ to expand our offerings through a partnership with a company like SmartAct
+ ion. We pride ourselves in offering customized solutions for our clients i
+ n the spaces of natural language portals\, Voice Biometrics\, Speech Analy
+ tics and Transcription. These solutions are built on our core proprietary 
+ speech engines.\n\n\nI have attached a short corporate deck. Please reply 
+ if you would like to find out more about Verbio and have a quick chat.\n\n
+ \nBest\,\n\n\nAlexander\n\n\n\n\n\n\nAlexander Matheson\n\n\n\nSales Manag
+ er\nVerbio<http://www.verbio.com/en/> // E: amatheson@verbio.com<mailto:am
+ atheson@verbio.com>\n\nT: 6508642215<tel:6508642215> // skp: a.w.matheson\
+ n\n
+UID:83B6CEF0-0936-47F2-A227-BB38FE392008
+SUMMARY;LANGUAGE=en-US:Re: Potential Partner - Speech Technology Experts\, 
+ Low Cost\, High Accuracy
+DTSTART;TZID=Pacific Standard Time:20141211T100000
+DTEND;TZID=Pacific Standard Time:20141211T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20141209T221551Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:call 213-289-9989 pin: 56562
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2112638108
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

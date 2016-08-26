@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Michael Gubman:MAILTO:mgubman@gracenote.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN='Alexander
+  Matheson':MAILTO:amatheson@verbio.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Markus Cre
+ mer:MAILTO:mcremer@gracenote.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ty Roberts
+ :MAILTO:ty@gracenote.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Greg Sigel
+ :MAILTO:gsigel@comcast.net
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Antonio Te
+ rradas:MAILTO:aterradas@verbio.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Carlos Pui
+ gjaner:MAILTO:cpuigjaner@verbio.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andrew Van
+  Doren:MAILTO:avandoren@gracenote.com
+ATTENDEE;CUTYPE=ROOM;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Room West Wing:MAIL
+ TO:roomwestwing@gracenote.com
+DESCRIPTION;LANGUAGE=en-US:--Adding dial-in info for this meeting:\n\nToll-
+ free dial-in number :\n(866) 499-7054\n\nInternational dial-in number:\n(7
+ 24) 924-4212\n\nConference code:\n5104287290\n\nLeader PIN:\n1099\n\n\nGla
+ d we can meet.\n\nOur office address:\n\nGracenote\, Inc\n2000 Powell St. 
+ Suite 1500\nEmeryville\, CA 94608\n\nPlease park in the parking garage and
+  come to the 15th floor. The receptionist will let me know when you arrive
+  and I’ll come show you to the meeting room. Please bring your parking t
+ icket and we will validate.\n\nFeel free to call my cell with any last min
+ ute question.\n\nThanks\,\nMike\n\n\n___________________________\nMichael 
+ Gubman\nDirector of Strategy\, Gracenote<http://gracenote.com/>\nT (510) 4
+ 28-7290   M (310) 903-9370\nmgubman@gracenote.com<mailto:mgubman@gracenote
+ .com>\n\n\n_____________________________________________\nFrom: Alexander 
+ Matheson [mailto:amatheson@verbio.com]\nSent: Friday\, December 05\, 2014 
+ 4:51 PM\nTo: Michael Gubman\nCc: Ty Roberts\; Markus Cremer\; Greg Sigel\;
+  Antonio Terradas\; Carlos Puigjaner\nSubject: Re: Verbio Followup Meeting
+  with Gracenote - Product Team for Music & Auto\n\n\nHi Michael\,\n\nTuesd
+ ay\, December 16th at 11am will work well for us and we can come by your o
+ ffice as we are not too far away. We will have someone from our technical 
+ team joining us remotely\, to answer any of the more technical questions t
+ hat may arise.\n\nThank you and have a good weekend\,\n\nAlexander\n\n\n\n
+ \nAlexander Matheson\n\nSales Manager\nVerbio<http://www.verbio.com/en/> /
+ / E: amatheson@verbio.com<mailto:amatheson@verbio.com>\nT: 6508642215 // s
+ kp: a.w.matheson\n\nOn Fri\, Dec 5\, 2014 at 3:14 AM\, Michael Gubman <mgu
+ bman@gracenote.com<mailto:mgubman@gracenote.com>> wrote:\nHi Alexander\,\n
+ \nThank you so much for following up. I’m eager to learn more about Verb
+ io. I’d like to bring Markus Cremer\, Director of our R&D lab\, into the
+  conversation as well.\n\nIt looks like our next available date is Tuesday
+  Dec 16th at 11:00 AM\, would you be available then? We’re happy to have
+  you join us in the office or do a call. Please let me know if that time w
+ orks and I can send out an invite.\n\nThanks\,\nMike\n\n__________________
+ _________\nMichael Gubman\nDirector of Strategy\, Gracenote<http://graceno
+ te.com/>\nT (510) 428-7290<tel:%28510%29%20428-7290>   M (310) 903-9370<te
+ l:%28310%29%20903-9370>\nmgubman@gracenote.com<mailto:mgubman@gracenote.co
+ m><mailto:mgubman@gracenote.com<mailto:mgubman@gracenote.com>>\n\nFrom: Al
+ exander Matheson <amatheson@verbio.com<mailto:amatheson@verbio.com><mailto
+ :amatheson@verbio.com<mailto:amatheson@verbio.com>>>\nDate: Thursday\, Dec
+ ember 4\, 2014 at 10:50 AM\nTo: Ty Roberts <ty@gracenote.com<mailto:ty@gra
+ cenote.com><mailto:ty@gracenote.com<mailto:ty@gracenote.com>>>\nCc: Jennif
+ er Lucas <jlucas@gracenote.com<mailto:jlucas@gracenote.com><mailto:jlucas@
+ gracenote.com<mailto:jlucas@gracenote.com>>>\, Greg Sigel <gsigel@comcast.
+ net<mailto:gsigel@comcast.net><mailto:gsigel@comcast.net<mailto:gsigel@com
+ cast.net>>>\, Antonio Terradas <aterradas@verbio.com<mailto:aterradas@verb
+ io.com><mailto:aterradas@verbio.com<mailto:aterradas@verbio.com>>>\, Carlo
+ s Puigjaner <cpuigjaner@verbio.com<mailto:cpuigjaner@verbio.com><mailto:cp
+ uigjaner@verbio.com<mailto:cpuigjaner@verbio.com>>>\, Michael Gubman <mgub
+ man@gracenote.com<mailto:mgubman@gracenote.com><mailto:mgubman@gracenote.c
+ om<mailto:mgubman@gracenote.com>>>\nSubject: Re: Verbio Followup Meeting w
+ ith Gracenote - Product Team for Music & Auto\n\nHi Michael\,\n\nNice to m
+ eet you. If you have any questions about Verbio or what we discussed with 
+ Ty\, please feel free to let me know and I can give you a call to get you 
+ up to speed.\n\nI have reattached a copy of our short corporate deck for y
+ our information.\n\nI look forward to talking with you\,\n\nBest\,\n\nAlex
+ ander\n\nAlexander Matheson\n\nSales Associate\nVerbio<http://www.verbio.c
+ om/en/> // E: amatheson@verbio.com<mailto:amatheson@verbio.com><mailto:ama
+ theson@verbio.com<mailto:amatheson@verbio.com>>\nT: 6508642215<tel:6508642
+ 215> // skp: a.w.matheson\n\nOn Wed\, Dec 3\, 2014 at 11:45 AM\, Ty Robert
+ s <ty@gracenote.com<mailto:ty@gracenote.com><mailto:ty@gracenote.com<mailt
+ o:ty@gracenote.com>>> wrote:\nAlexander\,\n\nIt was great to talk with you
+ .\n\nMichael Gubman will organize the next meeting with the right folks in
+ ternally. He is the Director of Strategy here and knows the best way to se
+ quence the discussion.\n\nSincerely\,\nO\nTy Roberts\nChief Strategy Offic
+ er & Co-Founder\nGracenote\n2000 Powell Street\nEmeryville\, CA 94608\nT +
+ 1 (510) 428-7227<tel:%2B1%20%28510%29%20428-7227><tel:%2B1%20%28510%29%204
+ 28-7227>\nM +1 (510) 393-9375<tel:%2B1%20%28510%29%20393-9375><tel:%2B1%20
+ %28510%29%20393-9375>\n\nSent on my mobile phone\n\nOn Dec 3\, 2014\, at 1
+ 1:39 AM\, Alexander Matheson <amatheson@verbio.com<mailto:amatheson@verbio
+ .com><mailto:amatheson@verbio.com<mailto:amatheson@verbio.com>><mailto:ama
+ theson@verbio.com<mailto:amatheson@verbio.com><mailto:amatheson@verbio.com
+ <mailto:amatheson@verbio.com>>>> wrote:\n\nHi Ty and Jennifer\,\n\nVery go
+ od to talk to you on Monday. Thanks again for your time.\n\nI am just foll
+ owing up to see if it will be possible to organize a meeting with someone 
+ from the Auto and Music Product team to talk more about integrating with y
+ our products. Specifically\, as we discussed:\n\n *   Voice Biometrics for
+  user identification and personalization\n *   Speech Analytics for enhanc
+ ing the user experience (mood\, gender etc.)\n *   Transcription for Sport
+ s Broadcasters.\n *   TTS for custom voices (celebrity voices and corporat
+ e voices).\n *   ASR tuned for phonetics of song names and artists.\n *   
+ Cloud based services\n\nFeel free to Fwd the information we shared with yo
+ u before the last call. I have attached it again for convenience.\n\nWe ar
+ e free up until the 18th and would love to fit something in before then.\n
+ \n\nBest\,\n\nAlexander\n\n\n\nAlexander Matheson\n\nSales Associate\nVerb
+ io<http://www.verbio.com/en/> // E: amatheson@verbio.com<mailto:amatheson@
+ verbio.com><mailto:amatheson@verbio.com<mailto:amatheson@verbio.com>><mail
+ to:amatheson@verbio.com<mailto:amatheson@verbio.com><mailto:amatheson@verb
+ io.com<mailto:amatheson@verbio.com>>><mailto:amatheson@verbio.com<mailto:a
+ matheson@verbio.com><mailto:amatheson@verbio.com<mailto:amatheson@verbio.c
+ om>>>\nT: 6508642215<tel:6508642215><tel:6508642215<tel:6508642215>> // sk
+ p: a.w.matheson\n<Verbio_Corporate_Deck.pdf>\n\n\n\n
+SUMMARY;LANGUAGE=en-US:Verbio Followup Meeting with Gracenote - Product Tea
+ m for Music & Auto
+DTSTART;TZID=Pacific Standard Time:20141216T110000
+DTEND;TZID=Pacific Standard Time:20141216T120000
+UID:040000008200E00074C5B7101A82E0080000000050D35E72B010D001000000000000000
+ 010000000BDA6361BF0A41C4C8A37F16E2292DB92
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20141215T185932Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Room West Wing
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:245745630
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

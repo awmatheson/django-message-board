@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>My Board</title>
+	</head>
+	<body>
+		{% for message in messages %}
+			<div>
+				<h1>{{ message.title }}</h1>
+				<p>{{message.text}}</p>
+			</div>
+		{% endfor %}
+	</body>
+</html>

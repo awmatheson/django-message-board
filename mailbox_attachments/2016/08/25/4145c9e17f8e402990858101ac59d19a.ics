@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//swiss.com//Your Flight//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20141006T050500Z
+DTEND:20141006T072500Z
+LOCATION:Zurich
+CATEGORIES:
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:6939b66a462f41098b5acca7d479a437@swiss.com
+DTSTAMP:20141006T050500Z
+DESCRIPTION:All times are local times at the departure airport. No responsibility is taken for the correctness of the details provided.\n\n\nBooking reference: ARXCB6\n\nMR Alexander Matheson E-Ticket number: 7242133755117\n\n\nOperating Airline: SWISS\nFlight number: LX 2020\nTotal travel time: 2h 20m\n\nDeparture\nDate: 06 Oct 2014\nTime: 07:05\nFrom: Zurich Switzerland\nTerminal: Please see Check-in Area/terminal information at airport\n\nArrival\nDate: 06 Oct 2014\nTime: 09:25\nAt: Madrid Spain\nTerminal: Please see Check-in Area/terminal information at airport\n\n\n\nThank you for choosing SWISS\nEasy check-in by internet on: swiss.com/webcheckin\nFor further inquiries contact: swiss.com/contacts\n\n\nYour SWISS.COM Team\n
+SUMMARY:Flight to Madrid
+PRIORITY:5
+CLASS:PRIVATE
+END:VEVENT
+END:VCALENDAR
